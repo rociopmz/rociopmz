@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I’m currently working on Javascript
+💬 Ask me about: Career Development, Job Opportunities
+📫 How to reach me: rocio.perez@ironhack.com
+
 <!--
 **rociopmz/rociopmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
