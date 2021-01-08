@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Javascript
-💬 Ask me about: Career Development, Job Opportunities
+<div>🔭 I’m currently working on Javascript</div>
+<div>💬 Ask me about: Career Development, Job Opportunities</div>
 📫 How to reach me: rocio.perez@ironhack.com
 
 <!--
